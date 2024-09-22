@@ -1,0 +1,985 @@
+{
+    "clubs":[
+     {
+      "clubName": "Barca Residency Academy",
+      "state": "Arizona",
+      "image": "assets/images/logo1.jpg",
+      "latitude":32.8795,
+      "longitude":-111.8547
+      
+     },
+     {
+      "clubName": "Phoenix Rising FC",
+      "state": "Arizona",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.64221,
+      "longitude": -111.90482
+     },
+     {
+      "clubName": "RSL Arizona",
+      "state": "Arizona",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.6374,
+      "longitude": -111.8802
+     },
+     {
+      "clubName": "SC Del Sol",
+      "state": "Arizona",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.6759,
+      "longitude": -112.09929
+     },
+     {
+      "clubName": "Hoover-Vestavia Soccer",
+      "state": "Alabama",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.4335,
+      "longitude": -86.78955
+     },
+     {
+      "clubName": "ALBION SC Los Angeles",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.83397,
+      "longitude": -118.1357
+     },
+     {
+      "clubName": "ALBION SC Merced",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.29518,
+      "longitude": -120.5011
+     },
+     {
+      "clubName": "ALBION SC San Diego",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.6536,
+      "longitude": -120.9767
+     },
+     {
+      "clubName": "Atletico Santa Rosa",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.3775,
+      "longitude": -122.7059
+     },
+     {
+      "clubName": "Ballistic United",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.6611,
+      "longitude": -121.8768
+     },
+     {
+      "clubName": "Breakers FC",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 36.9831,
+      "longitude": -121.7681
+     },
+     {
+      "clubName": "Chula Vista FC",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 32.6416,
+      "longitude": -117.00685
+     },
+     {
+      "clubName": "City SC San Diego",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.1210,
+      "longitude": -117.2762
+     },
+     {
+      "clubName": "De Anza Force",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.3189,
+      "longitude": -122.01367
+     },
+     {
+      "clubName": "Diablo Valley Wolves",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.9780,
+      "longitude": -122.043686
+     },
+     {
+      "clubName": "FC Bay Area Surf",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.3387,
+      "longitude": -121.893028
+     },
+     {
+      "clubName": "FC Golden state Force",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.9792,
+      "longitude": 118.0328
+     },
+     {
+      "clubName": "LA Galaxy",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.8642391,
+      "longitude": -118.2610795
+     },
+     {
+      "clubName": "Lamorinda SC",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.87863,
+      "longitude": -118.25734
+     },
+     {
+      "clubName": "Los Angeles Bulls Soccer club",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 34.0467,
+      "longitude": -118.5464
+     },
+     {
+      "clubName": "Los Angeles Football club",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 34.0549,
+      "longitude": -118.2426
+     },
+     {
+      "clubName": "Los Angeles Soccer club",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 34.16865,
+      "longitude": -118.3819
+     },
+     {
+      "clubName": "Los Angeles Surf",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 34.1478,
+      "longitude": 118.1445
+     },
+     {
+      "clubName": "Modesto Ajax United",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.6896,
+      "longitude": -120.9765
+     },
+     {
+      "clubName": "Murrieta Soccer Academy",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.5823,
+      "longitude": -117.17015
+     },
+     {
+      "clubName": "Napa United",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.33638,
+      "longitude": -122.32291
+     },
+     {
+      "clubName": "Nomads",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 32.83550,
+      "longitude": -117.1682
+     },
+     {
+      "clubName": "Sacramento Republic",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.59167,
+      "longitude": -121.43360
+     },
+     {
+      "clubName": "Sacramento United",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.5816,
+      "longitude": -121.4944
+     },
+     {
+      "clubName": "San Francisco Glens",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.7610,
+      "longitude": -122.4892
+     },
+     {
+      "clubName": "San Francisco Seals",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.7749,
+      "longitude": -122.4194
+     },
+     {
+      "clubName": "San Jose Earthquakes",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.35051,
+      "longitude": -121.9251
+     },
+     {
+      "clubName": "Santa Barbara Soccer club",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 34.4261,
+      "longitude": -119.8689
+     },
+     {
+      "clubName": "Sheriffs FC",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.7258,
+      "longitude": -122.1569
+     },
+     {
+      "clubName": "Silicon Valley SA",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.4419,
+      "longitude": -122.1430
+     },
+     {
+      "clubName": "SoCal Reds FC",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.6846,
+      "longitude": -117.8265
+     },
+     {
+      "clubName": "Strikers FC",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.6846,
+      "longitude": -117.8265
+     },
+     {
+      "clubName": "Total Futbol Academy",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 32.8297,
+      "longitude": -117.0893
+     },
+     {
+      "clubName": "Ventura County Fusion",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 34.2805,
+      "longitude": -119.2945
+     },
+     {
+      "clubName": "WSC Crush",
+      "state": "California",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 37.4299,
+      "longitude": -122.2539
+     },
+     {
+      "clubName": "Colorado Rapids",
+      "state": "Colorado",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.8058,
+      "longitude": -104.8909
+     },
+     {
+      "clubName": "Real Colorado",
+      "state": "Colorado",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.2587,
+      "longitude": -104.9389
+     },
+     {
+      "clubName": "Beachside Soccer Club",
+      "state": "Connecticut",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 41.1177,
+      "longitude": -73.4082
+     },
+     {
+      "clubName": "Oakwood Soccer club",
+      "state": "Connecticut",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 41.6862,
+      "longitude": -72.5451
+     },
+     {
+      "clubName": "Sporting Athletic club",
+      "state": "Delaware",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.7447,
+      "longitude":  -75.5484
+     },
+     {
+      "clubName": "D.C. United",
+      "state": "District of Columbia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.8683,
+      "longitude": -77.01248
+     },
+     {
+      "clubName": "Athletum FC Academy",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 25.7617,
+      "longitude": -80.1918
+     },
+     {
+      "clubName": "Chargers Soccer club",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 27.4117,
+      "longitude": -82.4285
+     },
+     {
+      "clubName": "Florida Rush",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 28.5494,
+      "longitude": -81.7729
+     },
+     {
+      "clubName": "IdeaSport Soccer Academy",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 28.2956,
+      "longitude": -81.4039
+     },
+     {
+      "clubName": "IMG Academy",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 27.4989,
+      "longitude": -82.5748
+     },
+     {
+      "clubName": "Inter Miami CF",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 25.7617,
+      "longitude": -80.1918
+     },
+     {
+      "clubName": "Jacksonville FC",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 30.3322,
+      "longitude":  -81.6557
+     },
+     {
+      "clubName": "Miami Rush Kendall SC",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 25.7010,
+      "longitude": -80.3351
+     },
+     {
+      "clubName": "Orlando City SC",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 28.5408,
+      "longitude": -81.3898
+     },
+     {
+      "clubName": "South Florida Football Academy",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 26.0078,
+      "longitude": -80.2516
+     },
+     {
+      "clubName": "Tampa Bay United",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 28.0817,
+      "longitude": -82.6111
+     },
+     {
+      "clubName": "West Florida Flames",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 28.1513,
+      "longitude": -82.6775
+     },
+     {
+      "clubName": "Weston FC",
+      "state": "Florida",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 26.1004,
+      "longitude": -80.3998
+     },
+     {
+      "clubName": "AFC Lightning",
+      "state": "Georgia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.343680,
+      "longitude": -84.544760
+     },
+     {
+      "clubName": "Atlanta United",
+      "state": "Georgia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.933842,
+      "longitude": -84.497391
+     },
+     {
+      "clubName": "Inter Atlanta FC",
+      "state": "Georgia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.757460,
+      "longitude": -84.330450
+     },
+     {
+      "clubName": "Kalonji Soccer Academy",
+      "state": "Georgia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.906810,
+      "longitude": -84.201660
+     },
+     {
+      "clubName": "Lanier Soccer Academy",
+      "state": "Georgia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 34.262190,
+      "longitude": -83.793700
+     },
+     {
+      "clubName": "Southern Soccer Academy",
+      "state": "Georgia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.950830,
+      "longitude": -84.572410
+     },
+     {
+      "clubName": "Tormenta FC Academy",
+      "state": "Georgia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 32.4073413,
+      "longitude": -81.7968483
+     },
+     {
+      "clubName": "Chicago FC United",
+      "state": "Illinois",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.0778,
+      "longitude": -87.8223
+     },
+     {
+      "clubName": "Chicago Fire FC",
+      "state": "Illinois",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 41.8694,
+      "longitude": -87.6608
+     },
+     {
+      "clubName": "Sockers FC",
+      "state": "Illinois",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.0999,
+      "longitude": -88.0109
+     },
+     {
+      "clubName": "Indy Eleven",
+      "state": "Indiana",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.0427,
+      "longitude": -86.1277
+     },
+     {
+      "clubName": "Javanon FC",
+      "state": "Kentucky",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.2028,
+      "longitude": -85.5264
+     },
+     {
+      "clubName": "Louisiana TDP Elite",
+      "state": "Louisiana",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.0427,
+      "longitude": -86.1277
+     },
+     {
+      "clubName": "Achilles FC",
+      "state": "Maryland",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.9629,
+      "longitude": -77.05456
+     },
+     {
+      "clubName": "Baltimore Armour",
+      "state": "Maryland",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.2464,
+      "longitude": -76.8715
+     },
+     {
+      "clubName": "Bethesda SC",
+      "state": "Maryland",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.2673,
+      "longitude": -76.7983  
+     },
+     {
+      "clubName": "Boston Bolts",
+      "state": "Massachusetts",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.3370,
+      "longitude": -71.2092
+     },
+     {
+      "clubName": "Intercontinental Football Academy ",
+      "state": "Massachusetts",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 41.9001,
+      "longitude": -71.0898
+     },
+     {
+      "clubName": "NEFC",
+      "state": "Massachusetts",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.3196,
+      "longitude": -71.6412
+     },
+     {
+      "clubName": "New England Revolution",
+      "state": "Massachusetts",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.0654,
+      "longitude": -71.2478
+     },
+     {
+      "clubName": "Valeo FC",
+      "state": "Massachusetts",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.2914,
+      "longitude": -71.1960
+     },
+     {
+      "clubName": "Michigan Jaguars",
+      "state": "Michigan",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 	42.4805,
+      "longitude": 	-83.4754
+     },
+     {
+      "clubName": "Michigan Wolves",
+      "state": "Michigan",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 45.4436,
+      "longitude": -93.5524
+     },
+     {
+      "clubName": "Midwest United",
+      "state": "Michigan",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.9634,
+      "longitude": -85.6681
+     },
+     {
+      "clubName": "Vardar Soccer club",
+      "state": "Michigan",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.6907,
+      "longitude": -83.4066
+     },
+     {
+      "clubName": "Minnesota United FC",
+      "state": "Minnesota",
+      "image": "assets/images/logo1.jpg",
+      "latitude": 42.6806,
+      "longitude": -83.1338
+     },
+     {
+      "clubName": "Shattuck-St. Mary's",
+      "state": "Minnesota",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 44.2950,
+      "longitude": -93.2688
+     },
+     {
+      "clubName": "Lou Fusz Athletic",
+      "state": "Missouri",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.7347,
+      "longitude": -90.4723004
+     },
+     {
+      "clubName": "Sporting Kansas City",
+      "state": "Missouri",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.01423,
+      "longitude": -94.5211
+     },
+     {
+      "clubName": "St. Louis City SC",
+      "state": "Missouri",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.6344,
+      "longitude": -90.2631
+     },
+     {
+      "clubName": "St. Louis Scott Gallagher",
+      "state": "Missouri",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.5463,
+      "longitude": -90.4381
+     },
+     {
+      "clubName": "Albion SC Las Vegas",
+      "state": "Nevada",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 36.0395,
+      "longitude": -114.9817
+     },
+     {
+      "clubName": "Las Vegas Sports Academy",
+      "state": "Nevada",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 36.2183,
+      "longitude": -115.2618
+     },
+     {
+      "clubName": "Seacoast United",
+      "state": "New Hampshire",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 42.9376,
+      "longitude": -70.8389
+     },
+     {
+      "clubName": "Cedar Stars Academy Bergen",
+      "state": "New Jersey",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.8404,
+      "longitude": -74.0907
+     },
+     {
+      "clubName": "Cedar Stars Academy Monmouth",
+      "state": "New Jersey",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.2589,
+      "longitude": -74.1240
+     },
+     {
+      "clubName": "Ironbound Soccer club",
+      "state": "New Jersey",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.7323,
+      "longitude": -74.1489
+     },
+     {
+      "clubName": "New York Red Bulls",
+      "state": "New Jersey",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.8198,
+      "longitude": -74.3969
+     },
+     {
+      "clubName": "Player Development Academy",
+      "state": "New Jersey",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.5329,
+      "longitude": -74.5749
+     },
+     {
+      "clubName": "Real Jersey FC",
+      "state": "New Jersey",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.9276,
+      "longitude": -74.8263
+     },
+     {
+      "clubName": "TSF Academy",
+      "state": "New Jersey",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.9243,
+      "longitude": -74.3021
+     },
+     {
+      "clubName": "Blau Weiss Gottschee",
+      "state": "New York",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.7206,
+      "longitude": -73.8848
+     },
+     {
+      "clubName": "FA Euro New York",
+      "state": "New York",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.5950,
+      "longitude": -74.0015
+     },
+     {
+      "clubName": "FC Westchester New York",
+      "state": "New York",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.9115,
+      "longitude": -73.7824
+     },
+     {
+      "clubName": "Metropolitan Oval",
+      "state": "New York",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.7187,
+      "longitude": -73.9067
+     },
+     {
+      "clubName": "New York City FC",
+      "state": "New York",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 41.0468,
+      "longitude": -73.9452
+     },
+     {
+      "clubName": "New York Soccer club",
+      "state": "New York",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 41.0322,
+      "longitude": -73.7158
+     },
+     {
+      "clubName": "Rochester NY FC Academy",
+      "state": "New York",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 43.0628,
+      "longitude": -77.6743
+     },
+     {
+      "clubName": "Charlotte FC",
+      "state": "North Carolina",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 35.1512,
+      "longitude": -80.7509
+     },
+     {
+      "clubName": "Queen City Mutiny FC",
+      "state": "North Carolina",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 35.0196,
+      "longitude": -80.8384
+     },
+     {
+      "clubName": "Triangle United Soccer Association",
+      "state": "North Carolina",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 35.9283,
+      "longitude": -79.0319
+     },
+     {
+      "clubName": "Wake FC",
+      "state": "North Carolina",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 35.6668,
+      "longitude": -78.8353 
+     },
+     {
+      "clubName": "Cincinnati United Premier Soccer club",
+      "state": "Ohio",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.4255,
+      "longitude": -84.2450
+     },
+     {
+      "clubName": "Columbus Crew SC",
+      "state": "Ohio",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.009,
+      "longitude": -82.9911
+     },
+     {
+      "clubName": "FC Cincinnati",
+      "state": "Ohio",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.1753,
+      "longitude": -84.2944
+     },
+     {
+      "clubName": "Portland Timbers",
+      "state": "Oregon",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 45.5215,
+      "longitude": -122.6918
+     },
+     {
+      "clubName": "Beadling SC",
+      "state": "Pennsylvania",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.7366,
+      "longitude": -80.1804
+     },
+     {
+      "clubName": "FC Delco",
+      "state": "Pennsylvania",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.9832,
+      "longitude": -75.8238
+     },
+     {
+      "clubName": "PA Classics",
+      "state": "Pennsylvania",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.1634,
+      "longitude": -76.3950
+     },
+     {
+      "clubName": "Philadelphia Union",
+      "state": "Pennsylvania",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.8496,
+      "longitude": -75.3557
+     },
+     {
+      "clubName": "Bayside FC",
+      "state": "Rhode Island",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 41.8168,
+      "longitude": -71.3541
+     },
+     {
+      "clubName": "Nashville SC",
+      "state": "Tennessee",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 36.0597,
+      "longitude": -86.6716
+     },
+     {
+      "clubName": "Nashville United Soccer Academy",
+      "state": "Tennessee",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 36.0331,
+      "longitude": -86.7828
+     },
+     {
+      "clubName": "Austin FC",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 30.4054,
+      "longitude": -97.6527
+     },
+     {
+      "clubName": "Capital City SC",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 30.1370,
+      "longitude": -97.8559
+     },
+     {
+      "clubName": "Dallas Hornets",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 32.7079,
+      "longitude": -96.9209
+     },
+     {
+      "clubName": "FC Dallas",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 33.1593,
+      "longitude": -96.8342
+     },
+     {
+      "clubName": "Global Football Innovation Academy",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 30.0799,
+      "longitude": -95.4172
+     },
+     {
+      "clubName": "Houston Dynamo",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 29.6380,
+      "longitude": -95.3950
+     },
+     {
+      "clubName": "Houston Rangers",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 29.8602,
+      "longitude": -95.8238
+     },
+     {
+      "clubName": "IDEA Toros Futbol Academy",
+      "state": "Texas",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 26.2846,
+      "longitude": -98.1244
+     },
+     {
+      "clubName": "Real Salt Lake",
+      "state": "Utah",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 40.5141,
+      "longitude": -112.0330
+     },
+     {
+      "clubName": "Alexandria SA",
+      "state": "Virginia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.7970,
+      "longitude": -77.0527
+     },
+     {
+      "clubName": "SYC",
+      "state": "Virginia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 38.7950,
+      "longitude": -77.2436
+     },
+     {
+      "clubName": "Seattle Sounders FC",
+      "state": "Washington",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 47.4797,
+      "longitude": -122.2079
+     },
+     {
+      "clubName": "West Virginia Soccer",
+      "state": "West Virginia",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 39.2890,
+      "longitude": -77.8597
+     },
+     {
+      "clubName": "Bavarian United SC",
+      "state": "Wisconsin",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 43.1158,
+      "longitude": -87.9202
+     },
+     {
+      "clubName": "SC Wave",
+      "state": "Wisconsin",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 43.0073,
+      "longitude": -88.3239
+     },
+     {
+      "clubName": "Toronto FC",
+      "state": "Canada",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 43.7480,
+      "longitude": -79.4745
+     },
+     {
+      "clubName": "CF Montreal",
+      "state": "Canada",
+      "image": "assets/images/logo1.jpg", 
+      "latitude": 45.5499,
+      "longitude": -73.5312
+     },
+     {
+      "clubName": "Vancouver Whitecaps FC",
+      "state": "Canada",
+      "image": "assets/images/logo1.jpg",
+      "latitude": 49.2479,
+      "longitude":  -123.2344
+     }
+    ]
+}    

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
+    <script src="scriptss.js" defer></script>
+    <title>Youth Soccer Club Locator</title>
+  </head>
+
+  <body>
+    <!-- Navigation Logo -->
+    <nav class="navbar">
+      <div id="logo-container">
+        <img id="nav-logo" src="assets/images/logo3.png" alt="" />
+      </div>
+      <!-- Navigation Links -->
+      <div class="links-container">
+        <div class="dropdown">
+          <a class="drop-btn nav-links">Youth &#9662;</a>
+          <div class="dropdown-content">
+            <a href="">Club Search</a>
+            <a href="">Youth League Pyrimad</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <a class="drop-btn nav-links">College &#9662;</a>
+          <div class="dropdown-content">
+            <a href="">College Search</a>
+            <a href="">Division Pyrimad</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <a class="drop-btn nav-links">Pro/Semi Pro &#9662;</a>
+          <div class="dropdown-content">
+            <a href="">Team Search</a>
+            <a href="">League Pyrimad</a>
+          </div>
+        </div>
+        <a class="nav-links" href="">U.S League Pyrimad</a>
+      </div>
+    </nav>
+
+    <!-- Main Logo -->
+    <div class="body-wrapper">
+      <div id="body-logo-container">
+        <img id="body-logo" src="assets/images/logo2.png" alt="" />
+      </div>
+      <div class="locator-wrapper">
+        <h1 class="body-title">Soccer Club Locator</h1>
+
+        <!-- Search and filters  -->
+        <form class="locator-form">
+          <div class="filter-container">
+            <!-- Radius Options -->
+            <select class="filter-select location-select">
+              <option value="null">Location</option>
+              <option value="10">10 mi</option>
+              <option value="20">20 mi</option>
+              <option value="50">50 mi</option>
+              <option value="100">100 mi</option>
+            </select>
+            <!-- League Options -->
+            <select class="filter-select leagues-select">
+              <option value="All">Select League</option>
+              <option value="mlsNextClubs">MLS Next</option>
+              <option value="ecnlClubs">ECNL</option>
+              <option value="uslA">USL Academy</option>
+            </select>
+            <!-- States Options -->
+            <select class="filter-select states-select">
+              <option value="All">All States</option>
+              <option value="Alabama">Alabama</option>
+              <option value="Alaska">Alaska</option>
+              <option value="Arizona">Arizona</option>
+              <option value="Arkansas">Arkansas</option>
+              <option value="California">California</option>
+              <option value="Colorado">Colorado</option>
+              <option value="Connecticut">Connecticut</option>
+              <option value="Delaware">Delaware</option>
+              <option value="Florida">Florida</option>
+              <option value="Georgia">Georgia</option>
+              <option value="Hawaii">Hawaii</option>
+              <option value="Idaho">Idaho</option>
+              <option value="Illinois">Illinois</option>
+              <option value="Indiana">Indiana</option>
+              <option value="Iowa">Iowa</option>
+              <option value="Kansas">Kansas</option>
+              <option value="Kentucky">Kentucky</option>
+              <option value="Louisiana">Louisiana</option>
+              <option value="Maine">Maine</option>
+              <option value="Maryland">Maryland</option>
+              <option value="Massachusetts">Massachusetts</option>
+              <option value="Michigan">Michigan</option>
+              <option value="Minnesota">Minnesota</option>
+              <option value="Mississippi">Mississippi</option>
+              <option value="Missouri">Missouri</option>
+              <option value="Montana">Montana</option>
+              <option value="Nebraska">Nebraska</option>
+              <option value="Nevada">Nevada</option>
+              <option value="New Hampshire">New Hampshire</option>
+              <option value="New Jersey">New Jersey</option>
+              <option value="New Mexico">New Mexico</option>
+              <option value="New York">New York</option>
+              <option value="North Carolina">North Carolina</option>
+              <option value="North Dakota">North Dakota</option>
+              <option value="Ohio">Ohio</option>
+              <option value="Oklahoma">Oklahoma</option>
+              <option value="Oregon">Oregon</option>
+              <option value="Pennsylvania">Pennsylvania</option>
+              <option value="Rhode Island">Rhode Island</option>
+              <option value="South Carolina">South Carolina</option>
+              <option value="South Dakota">South Dakota</option>
+              <option value="Tennessee">Tennessee</option>
+              <option value="Texas">Texas</option>
+              <option value="Utah">Utah</option>
+              <option value="Vermont">Vermont</option>
+              <option value="Virginia">Virginia</option>
+              <option value="Washington">Washington</option>
+              <option value="West Virginia">West Virginia</option>
+              <option value="Wisconsin">Wisconsin</option>
+              <option value="Wyoming">Wyoming</option>
+              <option value="Canada">Canada</option>
+            </select>
+            <!-- Search Button -->
+            <button class="search-button" id="filter-submit" type="button">
+              <i class="fa fa-search"></i>
+            </button>
+          </div>
+        </form>
+      </div>
+      <!-- Displayed Clubs Grid -->
+      <div class="club-container">
+        <div class="club-grid" id="club-grid">
+          <div class="loading-animation" id="loading-animation"></div>
+        </div>
+      </div>
+      <!-- Pagination -->
+      <div class="pagination-container">
+        <div class="btn prev pgn-btns">
+          <i class="fa-solid fa-circle-chevron-left"></i>
+        </div>
+        <ul class="pagination-item-container"></ul>
+        <div class="btn next pgn-btns">
+          <i class="fa-solid fa-circle-chevron-right"></i>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
