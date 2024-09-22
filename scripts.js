@@ -106,9 +106,9 @@ function filterByLocation(position, locationValue) {
 function filterByLeague(leagueValue) {
   let leagueFile;
   if (leagueValue === "All") {
-    leagueFile = "./mlsNextClubs.json";
+    leagueFile = "./clubData/mlsNextClubs.json";
   } else {
-    leagueFile = `./${leagueValue}.json`;
+    leagueFile = `./clubData/${leagueValue}.json`;
   }
 
   return fetch(leagueFile)
